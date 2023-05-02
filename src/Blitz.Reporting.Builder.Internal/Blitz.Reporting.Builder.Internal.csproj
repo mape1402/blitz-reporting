@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Blitz.Reporting.Analyzers.Abstractions\Blitz.Reporting.Analyzers.Abstractions.csproj" />
+    <ProjectReference Include="..\Blitz.Reporting.Builder.Abstractions\Blitz.Reporting.Builder.Abstractions.csproj" />
+  </ItemGroup>
+
+</Project>
